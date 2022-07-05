@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Olá! 👋😀 Meu readme atualmente está em construção (04/07/2022) 🚧 🏗👷🏽‍♂️
 <!--
 **cristianoGitHub/cristianoGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
