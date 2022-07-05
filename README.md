@@ -3,7 +3,7 @@
 ### 🗓⏱ Today is day: 05/July/2022.
 
 - 🌱 I'm a lawyer in career transition, studying and loving programming. I intend to be a 'full stack' software developer soon.
-- ⚡ Fun fact: My first 'Hello World' was in Java, almost saying 'Goodbye' 😄, I find the learning curve in Java challenging!
+- ⚡ Fun fact: My first 'Hello World' was in Java, almost saying 'Goodbye' 😄, I think the learning curve in Java challenging!
 - 📫 cristianoroberto@outlook.com
 
 
