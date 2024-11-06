@@ -1,6 +1,6 @@
 ### 👋😀 Hello everyone! 
 ### 🏗👷🏽‍♂ My readme is under construction! 
-### 🗓⏱ Today is day: 06/July/2022.
+### 🗓⏱ Today is day: 06/July/2024.
 
 - 🌱 I'm a lawyer in career transition, studying and loving programming. I intend to be a 'full stack' software developer soon.
 - ⚡ Fun fact: ....
