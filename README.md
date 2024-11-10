@@ -7,16 +7,17 @@
 - 🔭 I’m currently working in pursuit of professional certifications.
 - 👯 I’m looking to collaborate on on Information Security projects.
 - 📫 Would you like to contact me? Send me a email: cristianoroberto@outlook.com
-- [Visite meu perfil](https://https://www.linkedin.com/in/cristianoroberto/)
+- [Visite meu perfil no LinkedIn](https://www.linkedin.com/in/cristianoroberto/)
+- 📖 > "A persistência é o caminho do êxito."
 
 ## 👨‍💻 My IT tools:
 ***
-Pending update, stay tuned! :-)
+*Pending update, stay tuned!* :-)
 
 ## 📋 My Professional and Academic Activities:
 ***
-Pending update, stay tuned! ;-)
+*Pending update, stay tuned!* ;-)
 
 ## 📃 My Certifications
 ***
-Pending update, stay tuned! :-D
+*Pending update, stay tuned!* :-D
