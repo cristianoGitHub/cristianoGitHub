@@ -1,7 +1,8 @@
 # Hi, guys! Welcome to my Cybersecurity Portfolio!
 ***
 
-## About Me
+
+## About Me...
 ***
 - 🌱 I'm a lawyer in career transition with postgraduate degree in Software Development. I am an enthusiastic student in the Technology field, with a deep passion for Cybersecurity and Technological Innovation.
 - 🔭 I’m currently working in pursuit of professional certifications.
@@ -13,9 +14,11 @@
 ***
 *Pending update, stay tuned!* :-)
 
+
 ## 📋 My Professional and Academic Activities:
 ***
 *Pending update, stay tuned!* ;-)
+
 
 ## 📃 My Certifications
 ***
