@@ -1,10 +1,10 @@
-### 👋😀 Hello everyone! 
+### Hi guys! Welcome to my Cybersecurity Portfolio!
 ### 🏗👷🏽‍♂ My readme is under construction! 
-### 🗓⏱ Today is day: 06/July/2024.
 
-- 🌱 I'm a lawyer in career transition, studying and loving programming. I intend to be a 'full stack' software developer soon.
-- ⚡ Fun fact: ....
-- 📫 cristianoroberto@outlook.com
+- 🌱 I'm a lawyer in career transition with postgraduate degree in Software Development. I am an enthusiastic student in the Technology field, with a deep passion for Cybersecurity and Technological Innovation.
+- 🔭 I’m currently working in pursuit of professional certifications.
+- 👯 I’m looking to collaborate on on Information Security projects.
+- 📫 Would you like to contact me? Send me a email: cristianoroberto@outlook.com
 
 
 <!--
@@ -12,9 +12,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
+
+
+“I am an enthusiastic beginner and student in the Technology field, with a deep passion for Cybersecurity and Technological Innovation. Here, you can find some of my IT projects and tools, professional and academic activities, as well as a few of my certifications.”
+
+
