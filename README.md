@@ -1,4 +1,4 @@
-# Olá! Bem-vindo(a) ao meu portfólio em Cybersecurity!
+# Olá! Seja muito bem-vindo(a) ao meu portfólio em Cybersecurity!
 ***
 
 
@@ -24,3 +24,6 @@
 ## 📃 Minhas Certificações
 ***
 🚧 *Pendente de atualização...*
+
+***
+👋 Obrigado por visitar meu perfil!
