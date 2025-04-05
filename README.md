@@ -11,8 +11,7 @@
 - Conecte-se comigo:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianoroberto/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://seu-blog.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tech_cris/?__pwa=1)
 
 ## 📚 O Que Estou Lendo
 
@@ -43,4 +42,3 @@
   </a>
 </div>
 
-![Snake](https://github.com/cristianoGitHub/cristianoGitHub/blob/output/github-contribution-grid-snake.gif)
