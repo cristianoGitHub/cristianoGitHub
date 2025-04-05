@@ -7,7 +7,7 @@
 - Sou um advogado em transição de carreira com pós-graduação em Desenvolvimento de Software. Sou um estudante entusiasta na área de Tecnologia, com uma profunda paixão por Cibersegurança.
 -	Atualmente, estou trabalhando na busca de certificações profissionais.
 -	Estou procurando colaborar em projetos de Segurança da Informação, inclusive  de forma voluntária.
-- Gostaria de me contactar? Envia-me um email: cristianoroberto@outlook.com
+- Gostaria de me contactar? Envia-me um email 📮: cristianoroberto@outlook.com
 - Conecte-se comigo:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianoroberto/)
