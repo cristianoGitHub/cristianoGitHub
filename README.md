@@ -5,8 +5,8 @@
 ## About Me...
 ***
 - 🌱 I'm a lawyer in career transition with postgraduate degree in Software Development. I am an enthusiastic student in the Technology field, with a deep passion for Cybersecurity and Technological Innovation.
-- 🔭 I’m currently working in pursuit of professional certifications.
-- 👯 I’m looking to collaborate on on Information Security projects.
+- 🧑‍🎓 I’m currently working in pursuit of professional certifications.
+- 🔭 I’m looking to collaborate on on Information Security projects.
 - 📫 Would you like to contact me? Send me a email: cristianoroberto@outlook.com
 - [Visit my LinkedIn profile](https://www.linkedin.com/in/cristianoroberto/)
 
