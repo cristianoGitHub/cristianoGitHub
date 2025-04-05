@@ -1,8 +1,8 @@
-# Olá! Bem-vindo ao meu portfólio em Cybersecurity!
+# Olá! Bem-vindo(a) ao meu portfólio em Cybersecurity!
 ***
 
 
-## 👤 Sobre mim
+## 👤 Sobre Mim
 ***
 - Sou um advogado em transição de carreira com pós-graduação em Desenvolvimento de Software. Sou um estudante entusiasta na área de Tecnologia, com uma profunda paixão por Cibersegurança e Inovação Tecnológica.
 -	Atualmente, estou trabalhando na busca de certificações profissionais.
@@ -10,7 +10,7 @@
 - Gostaria de me contactar? Envia-me um email: cristianoroberto@outlook.com
 - [Visite meu perfil no LinkedIn](https://www.linkedin.com/in/cristianoroberto/)
 
-## 📚 O que estou lendo
+## 📚 O Que Estou Lendo
 ***
 - Curso Intensivo de Python - Uma Introdução Prática e Baseada em Projetos à Programação (Eric Matthes).
 - Certificação Linux: Guia Prático Para a Prova LPIC-1 101 (Juliano Ramos).
