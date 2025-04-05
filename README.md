@@ -12,15 +12,15 @@
 
 ## 📚 O que estou lendo:
 ***
-- Curso Intensivo de Python - Uma Introdução Prática e Baseada em Projetos à Programação (Eric Matthes):
-- Certificação Linux: Guia Prático Para a Prova LPIC-1 101 (Juliano Ramos):
-- Construindo uma Carreira em Cibersegurança: Estratégia e Habilidades Necessárias para o Sucesso (Yuri Diogenes)
+- Curso Intensivo de Python - Uma Introdução Prática e Baseada em Projetos à Programação (Eric Matthes).
+- Certificação Linux: Guia Prático Para a Prova LPIC-1 101 (Juliano Ramos).
+- Construindo uma Carreira em Cibersegurança: Estratégia e Habilidades Necessárias para o Sucesso (Yuri Diogenes).
 
 ## 📋 Minhas Atividades Acadêmicas e Profissionais:
 ***
-*Pendente de atualização, fique atento!* ;-)
+*Pendente de atualização...
 
 
 ## 📃 Minhas Certificações
 ***
-*Pendente de atualização, fique atento!* :-D
+*Pendente de atualização...
