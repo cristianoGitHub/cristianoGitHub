@@ -17,7 +17,7 @@
 - *Certificação Linux: Guia Prático Para a Prova LPIC-1 101* (Juliano Ramos). 📌 [Veja meu repositório pinned](https://github.com/cristianoGitHub/shell_studio)
 - *Construindo uma Carreira em Cibersegurança: Estratégia e Habilidades Necessárias para o Sucesso* (Yuri Diogenes).
 
-## 🛠️ **Minhas Habilidades Técnicas Construídas**
+## 🛠️ **Minhas Habilidades Construídas**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +27,7 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🏗️ **Minhas Novas Habilidades em Construção**
+## 🏗️ **Minhas Habilidades em Construção**
 
 ![OSCP](https://img.shields.io/badge/OSCP-Offensive_Security-258FFA?style=for-the-badge&logo=offensive-security)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-0A0A0A?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -45,4 +45,4 @@
 
 ### 👋 **Obrigado por visitar meu perfil!**
 
-*Cristiano Roberto* ┼ *"Aprendizado é a base. Construção é o caminho.”*
+*"Aprendizado é a base. Construção é o caminho.”*
