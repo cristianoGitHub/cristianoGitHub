@@ -18,9 +18,9 @@
 
 ## 📋 Minhas Atividades Acadêmicas e Profissionais
 ***
-🏗️ *Pendente de atualização...
+🚧 *Pendente de atualização...*
 
 
 ## 📃 Minhas Certificações
 ***
-🏗️ *Pendente de atualização...
+🚧 *Pendente de atualização...*
