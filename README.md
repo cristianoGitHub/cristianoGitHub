@@ -36,6 +36,7 @@
 ![Pentest](https://img.shields.io/badge/Penetration_Testing-FF6E4A?style=for-the-badge&logo=target&logoColor=white)
 ![LGPD](https://img.shields.io/badge/LGPD-Brasil-009C3B?style=for-the-badge&logo=law&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Red Team](https://img.shields.io/badge/Red%20Team-Specialist-red?logo=hackthebox)
 
 ## 📊 **Estatísticas do GitHub**
 <div align="center">
