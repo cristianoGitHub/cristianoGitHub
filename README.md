@@ -5,7 +5,7 @@
 ## 👤 Sobre Mim
 
 - Sou um advogado em transição de carreira com pós-graduação em Desenvolvimento de Software. Sou um estudante entusiasta na área de Tecnologia, com uma profunda paixão por Cibersegurança.
--	Atualmente, estou trabalhando na busca de certificações profissionais.
+-	Atualmente, estou trabalhando na busca de certificações profissionais de forma voluntária.
 -	Estou procurando colaborar em projetos de Segurança da Informação.
 - Gostaria de me contactar? Envia-me um email: cristianoroberto@outlook.com
 - Conecte-se comigo:
