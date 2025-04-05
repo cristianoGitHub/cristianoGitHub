@@ -1,6 +1,4 @@
 # Olá! Seja muito bem-vindo(a)!
-***
-
 
 ## 👤 Sobre Mim
 
