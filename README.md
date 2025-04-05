@@ -13,14 +13,8 @@
 ## 📚 O que estou lendo:
 ***
 - Curso Intensivo de Python - Uma Introdução Prática e Baseada em Projetos à Programação (Eric Matthes):
-![Capa de livro](https://m.media-amazon.com/images/I/81Zfuoppb0L._SL1500_.jpg)
-
 - Certificação Linux: Guia Prático Para a Prova LPIC-1 101 (Juliano Ramos):
-![Capa de livro](https://m.media-amazon.com/images/I/71zhMsrhiKL._SL1500_.jpg)
-  
 - Construindo uma Carreira em Cibersegurança: Estratégia e Habilidades Necessárias para o Sucesso (Yuri Diogenes)
-![Capa de livro](https://m.media-amazon.com/images/I/61gMuGql3kL._SL1000_.jpg)
-
 
 ## 📋 Minhas Atividades Acadêmicas e Profissionais:
 ***
