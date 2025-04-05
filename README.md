@@ -31,9 +31,11 @@
 
 ## 🏗️ **Habilidades em Progresso**
 
+![OSCP](https://img.shields.io/badge/OSCP-Offensive_Security-258FFA?style=for-the-badge&logo=offensive-security)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-0A0A0A?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Pentest](https://img.shields.io/badge/Penetration_Testing-FF6E4A?style=for-the-badge&logo=target&logoColor=white)
+![LGPD](https://img.shields.io/badge/LGPD-Brasil-009C3B?style=for-the-badge&logo=law&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ## 📊 **Estatísticas do GitHub**
 <div align="center">
