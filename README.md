@@ -17,7 +17,7 @@
 - *Certificação Linux: Guia Prático Para a Prova LPIC-1 101* (Juliano Ramos). 📌 [Veja meu repositório pinned](https://github.com/cristianoGitHub/shell_studio)
 - *Construindo uma Carreira em Cibersegurança: Estratégia e Habilidades Necessárias para o Sucesso* (Yuri Diogenes).
 
-## 🛠️ **Habilidades Técnicas**
+## 🛠️ **Minhas Habilidades Técnicas Construídas**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +27,7 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🏗️ **Habilidades em Progresso**
+## 🏗️ **Minhas Novas Habilidades em Construção**
 
 ![OSCP](https://img.shields.io/badge/OSCP-Offensive_Security-258FFA?style=for-the-badge&logo=offensive-security)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-0A0A0A?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -35,7 +35,7 @@
 ![LGPD](https://img.shields.io/badge/LGPD-Brasil-009C3B?style=for-the-badge&logo=law&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-## 📊 **Estatísticas do GitHub**
+## 📊 **Minhas Estatísticas do GitHub**
 <div align="center">
   <a href="https://github.com/cristianoGitHub">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianoGitHub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -43,3 +43,6 @@
   </a>
 </div>
 
+### 👋 **Obrigado por visitar meu perfil!**
+
+*Cristiano Roberto* ┼ *"Aprendizado é a base. Construção é o caminho.”*
