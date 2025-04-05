@@ -1,25 +1,32 @@
-# Hi, guys! Welcome to my Cybersecurity Portfolio!
+# Olá! Bem-vindo ao meu portfólio em Cybersecurity Portfolio!
 ***
 
 
-## About Me...
+## Sobre mim...
 ***
-- 🌱 I'm a lawyer in career transition with postgraduate degree in Software Development. I am an enthusiastic student in the Technology field, with a deep passion for Cybersecurity and Technological Innovation.
-- 🧑‍🎓 I’m currently working in pursuit of professional certifications.
-- 🔭 I’m looking to collaborate on on Information Security projects.
-- 📫 Would you like to contact me? Send me a email: cristianoroberto@outlook.com
-- [Visit my LinkedIn profile](https://www.linkedin.com/in/cristianoroberto/)
+- 🌱 Sou um advogado em transição de carreira com pós-graduação em Desenvolvimento de Software. Sou um estudante entusiasta na área de Tecnologia, com uma profunda paixão por Cibersegurança e Inovação Tecnológica.
+-	🧑‍🎓 Atualmente, estou trabalhando na busca de certificações profissionais.
+-	🔭 Estou procurando colaborar em projetos de Segurança da Informação.
+- 📫 Gostaria de me contactar? Envia-me um email: cristianoroberto@outlook.com
+- [Visite meu perfil no LinkedIn](https://www.linkedin.com/in/cristianoroberto/)
 
-## 👨‍💻 My IT tools:
+## 📚 O que estou lendo:
 ***
-*Pending update, stay tuned!* :-)
+- Curso Intensivo de Python - Uma Introdução Prática e Baseada em Projetos à Programação (Eric Matthes):
+![Capa de livro](https://m.media-amazon.com/images/I/81Zfuoppb0L._SL1500_.jpg)
+
+- Certificação Linux: Guia Prático Para a Prova LPIC-1 101 (Juliano Ramos):
+![Capa de livro](https://m.media-amazon.com/images/I/71zhMsrhiKL._SL1500_.jpg)
+  
+- Construindo uma Carreira em Cibersegurança: Estratégia e Habilidades Necessárias para o Sucesso (Yuri Diogenes)
+![Capa de livro](https://m.media-amazon.com/images/I/61gMuGql3kL._SL1000_.jpg)
 
 
-## 📋 My Professional and Academic Activities:
+## 📋 Minhas Atividades Acadêmicas e Profissionais:
 ***
-*Pending update, stay tuned!* ;-)
+*Pendente de atualização, fique atento!* ;-)
 
 
-## 📃 My Certifications
+## 📃 Minhas Certificações
 ***
-*Pending update, stay tuned!* :-D
+*Pendente de atualização, fique atento!* :-D
