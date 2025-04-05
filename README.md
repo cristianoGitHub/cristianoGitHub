@@ -8,7 +8,11 @@
 -	Atualmente, estou trabalhando na busca de certificações profissionais.
 -	Estou procurando colaborar em projetos de Segurança da Informação.
 - Gostaria de me contactar? Envia-me um email: cristianoroberto@outlook.com
-- [Visite meu perfil no LinkedIn](https://www.linkedin.com/in/cristianoroberto/)
+
+### 🌐 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianoroberto/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://seu-blog.com)
 
 ## 📚 O Que Estou Lendo
 ***
