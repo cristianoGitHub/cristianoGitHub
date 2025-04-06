@@ -4,7 +4,7 @@
 
 - Sou um advogado em transição de carreira com pós-graduação em Desenvolvimento de Software. Sou um estudante entusiasta na área de Tecnologia, com uma profunda paixão por Cibersegurança.
 -	Estou trabalhando na busca de certificações profissionais, e atualmente, focando nas linguagens *Python* e *Shell Script (Bash)*.
--	Gostaria de colaborar em projetos de Segurança da Informação, inclusive de forma voluntária. De forma ética, e com total responsabilidade.
+-	Gostaria, eticamente, de colaborar em projetos de Segurança da Informação, inclusive de forma voluntária.
 - Deseja me contactar? Envia-me um *email* aqui 📮: cristianoroberto@outlook.com
 - Conecte-se comigo:
   
@@ -13,10 +13,10 @@
 
 ## 📚 O Que Estou Lendo
 
-- *Curso Intensivo de Python - Uma Introdução Prática e Baseada em Projetos à Programação* (Eric Matthes). 📌 [Veja meu repositório Github - Python](https://github.com/cristianoGitHub/python_estudio)
-- *Certificação Linux: Guia Prático Para a Prova LPIC-1 101* (Juliano Ramos). 📌 [Veja meu repositório GitHub - Shell Scripts](https://github.com/cristianoGitHub/shell_studio)
-- *Testes de Invasão: uma Introdução Prática ao Hacking* (Georgia Weidman). 📌 [Veja meu repositório GitHub - Python e Shell Scripts] ⏳ *Em breve*
-- *Construindo uma Carreira em Cibersegurança: Estratégia e Habilidades Necessárias para o Sucesso* (Yuri Diogenes). 📌 [Veja meu artigo no Medium] ⏳ <span style="color:red">Em breve</span>
+- *Curso Intensivo de Python - Uma Introdução Prática e Baseada em Projetos à Programação* (Eric Matthes). 📌 [Veja meu repositório](https://github.com/cristianoGitHub/python_estudio)
+- *Certificação Linux: Guia Prático Para a Prova LPIC-1 101* (Juliano Ramos). 📌 [Veja meu repositório](https://github.com/cristianoGitHub/shell_studio)
+- *Testes de Invasão: uma Introdução Prática ao Hacking* (Georgia Weidman). 📌 [Veja meu repositório GitHub] ![Em breve](https://img.shields.io/badge/Em_breve-⌛️-red)
+- *Construindo uma Carreira em Cibersegurança: Estratégia e Habilidades...* (Yuri Diogenes). 📌 [Veja meu artigo] ![Em breve](https://img.shields.io/badge/Em_breve-⌛️-red)
 
 ## 🛠️ Habilidades Adquiridas
 
