@@ -15,8 +15,8 @@
 
 - *Curso Intensivo de Python - Uma Introdução Prática e Baseada em Projetos à Programação* (Eric Matthes). 📌 [Veja meu repositório Github - Python](https://github.com/cristianoGitHub/python_estudio)
 - *Certificação Linux: Guia Prático Para a Prova LPIC-1 101* (Juliano Ramos). 📌 [Veja meu repositório GitHub - Shell Scripts](https://github.com/cristianoGitHub/shell_studio)
-- *Testes de Invasão: uma Introdução Prática ao Hacking* (Georgia Weidman). 📌 [Veja meu repositório GitHub - Python e Shell Scripts] 🔜 *Em breve*
-- *Construindo uma Carreira em Cibersegurança: Estratégia e Habilidades Necessárias para o Sucesso* (Yuri Diogenes). 📌 [Veja meu artigo Medium] ⏳ *Em breve*
+- *Testes de Invasão: uma Introdução Prática ao Hacking* (Georgia Weidman). 📌 [Veja meu repositório GitHub - Python e Shell Scripts] ⏳ *Em breve*
+- *Construindo uma Carreira em Cibersegurança: Estratégia e Habilidades Necessárias para o Sucesso* (Yuri Diogenes). 📌 [Veja meu artigo no Medium] ⏳ *Em breve*
 
 ## 🛠️ Habilidades Adquiridas
 
