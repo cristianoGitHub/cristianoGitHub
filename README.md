@@ -13,8 +13,8 @@
 
 ## 📚 O Que Estou Lendo
 
-- *Curso Intensivo de Python - Uma Introdução Prática e Baseada em Projetos à Programação* (Eric Matthes). 📌 [Veja meu repositório pinned](https://github.com/cristianoGitHub/python_estudio)
-- *Certificação Linux: Guia Prático Para a Prova LPIC-1 101* (Juliano Ramos). 📌 [Veja meu repositório pinned](https://github.com/cristianoGitHub/shell_studio)
+- *Curso Intensivo de Python - Uma Introdução Prática e Baseada em Projetos à Programação* (Eric Matthes). 📌 [Veja meu repositório - Python](https://github.com/cristianoGitHub/python_estudio)
+- *Certificação Linux: Guia Prático Para a Prova LPIC-1 101* (Juliano Ramos). 📌 [Veja meu repositório - Shell Scripts](https://github.com/cristianoGitHub/shell_studio)
 - *Construindo uma Carreira em Cibersegurança: Estratégia e Habilidades Necessárias para o Sucesso* (Yuri Diogenes).
 
 ## 🛠️ Habilidades Adquiridas
