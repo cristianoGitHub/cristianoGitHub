@@ -46,7 +46,7 @@
 
     [![Google Cybersecurity Certified](https://img.shields.io/badge/Google_Cybersecurity-Certified-blue)](https://www.coursera.org/account/accomplishments/certificate/D6GXY9B44T3H)
 
-  - *__Certitiifica da Cisco Networking Academy de Defesa de Rede__* *(Em andamento)*
+- *__Certificado da Cisco Networking Academy de Defesa de Rede__* *(Em andamento)*
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
