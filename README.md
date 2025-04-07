@@ -36,6 +36,15 @@
 ![LGPD](https://img.shields.io/badge/LGPD-Brasil-009C3B?style=for-the-badge&logo=law&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
+## 🎓 Certificações
+
+- *__Certificado Profissional de Segurança Cibernética do Google__* *(Em andamento)*
+
+
+    Clique na badge abaixo para conferir o certificado intermediário:
+
+    [![Google Cybersecurity Certified](https://img.shields.io/badge/Google_Cybersecurity-Certified-blue)](https://www.coursera.org/account/accomplishments/certificate/D6GXY9B44T3H) 
+
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/cristianoGitHub">
