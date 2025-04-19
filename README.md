@@ -15,7 +15,7 @@
 
 - *Curso Intensivo de Python - Uma Introdução Prática e Baseada em Projetos...* (Eric Matthes - Ed. Novatec). 📌 [Veja meu repositório](https://github.com/cristianoGitHub/python_estudio)
 - *Certificação Linux: Guia Prático Para a Prova LPIC-1 101* (Juliano Ramos - Ed. Casa do Código). 📌 [Veja meu repositório](https://github.com/cristianoGitHub/shell_studio)
-- *Análise de Tráfego em Redes TCP/IP* (João Eriberto Mota Filho - Ed. Novatec). 📌 [Veja meu repositório] (https://github.com/cristianoGitHub/redes_studio)
+- *Análise de Tráfego em Redes TCP/IP* (João Eriberto Mota Filho - Ed. Novatec). 📌 [Veja meu repositório](https://github.com/cristianoGitHub/redes_estudio)
 - *Testes de Invasão: Uma Introdução Prática ao Hacking* (Georgia Weidman - Ed. Novatec). 📌 [Veja meu repositório] ![Em breve](https://img.shields.io/badge/Em_breve-⌛️-red)
 - *Construindo uma Carreira em Cibersegurança: Estratégia...* (Yuri Diogenes - Ed. Novatec). 📌 [Veja minha resenha] ![Em breve](https://img.shields.io/badge/Em_breve-⌛️-red)
 
