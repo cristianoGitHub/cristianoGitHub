@@ -48,6 +48,8 @@
 
 - *__Certificado da Cisco Networking Academy de Defesa de Rede__* *(Em andamento)*
 
+- *__Certificação em SOC Program Foundations da Microsoft.__* *(Em andamento)*
+
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/cristianoGitHub">
