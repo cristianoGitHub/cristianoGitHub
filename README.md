@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianoroberto/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tech_cris/?__pwa=1)
 
-## 📚 O Que Estou Lendo
+## 📚 Hoje Estou Lendo e Aplicando
 
 - *Curso Intensivo de Python - Uma Introdução Prática e Baseada em Projetos...* (Eric Matthes - Ed. Novatec). 📌 [Veja meu repositório](https://github.com/cristianoGitHub/python_estudio)
 - *Certificação Linux: Guia Prático Para a Prova LPIC-1 101* (Juliano Ramos - Ed. Casa do Código). 📌 [Veja meu repositório](https://github.com/cristianoGitHub/shell_studio)
