@@ -3,7 +3,7 @@
 ## 👤 Sobre Mim
 
 - Sou um advogado em transição de carreira para área de TI, com pós-graduação em Desenvolvimento de Software. Tenho uma profunda paixão por Cibersegurança.
-- Histórico profisisonal: Pós-graduando em Ethical Hacking e Cybersecurity ⇠ Graduando em Segurança da Informação ⇠ Pós-graduado em Desenvolvimento de Software ⇠ Advogado especialista em Direito Processual
+- Histórico profissional: Pós-graduando em Ethical Hacking e Cybersecurity ⇠ Graduando em Segurança da Informação ⇠ Pós-graduado em Desenvolvimento de Software ⇠ Advogado especialista em Direito Processual
 -	Estou trabalhando na busca de certificações profissionais, e agora, focado nas linguagens *Python* e *Shell Script (Bash)*.
 -	Gostaria, eticamente, de colaborar em projetos de Segurança da Informação, até mesmo de forma voluntária (pois no momento busco por experiência em ambiente real).
 - Deseja me contactar? Envia-me um *email* 📮: cristianoroberto@outlook.com
