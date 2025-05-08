@@ -2,7 +2,7 @@
 
 ## 👤 Sobre Mim
 
-- Sou um advogado em transição de carreira para área de TI, com pós-graduação em Desenvolvimento de Software. Tenho uma profunda paixão por Cibersegurança.
+- Estou em transição de carreira para área de TI. Tenho uma profunda paixão pelo universo da Cibersegurança.
 - Histórico profissional: Pós-graduando em Ethical Hacking e Cybersecurity ⇠ Graduando em Segurança da Informação ⇠ Pós-graduado em Desenvolvimento de Software ⇠ Advogado especialista em Direito Processual
 -	Estou trabalhando na busca de certificações profissionais, e agora, focado nas linguagens *Python* e *Shell Script (Bash)*.
 -	Gostaria, eticamente, de colaborar em projetos de Segurança da Informação, até mesmo de forma voluntária (no momento busco por experiência em ambiente real).
@@ -38,7 +38,7 @@
 ![LGPD](https://img.shields.io/badge/LGPD-Brasil-009C3B?style=for-the-badge&logo=law&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Cristiano.Roberto.png" alt="Your Image Badge" />
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Cristiano.Roberto.png)](https://tryhackme.com/p/Cristiano.Roberto)
 
 ## 🎓 Certificações
 
