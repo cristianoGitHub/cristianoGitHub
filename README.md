@@ -6,7 +6,6 @@
 - Histórico profissional: Pós-graduando em Ethical Hacking e Cybersecurity ⇠ Graduando em Segurança da Informação ⇠ Pós-graduado em Desenvolvimento de Software ⇠ Advogado especialista em Direito Processual
 -	Estou trabalhando na busca de certificações profissionais, e agora, focado nas linguagens *Python* e *Shell Script (Bash)*.
 -	Gostaria, eticamente, de colaborar em projetos de Segurança da Informação, até mesmo de forma voluntária (no momento busco por experiência em ambiente real).
-- Deseja me contactar? Envia-me um *email* 📮: [Clique aqui!](mailto:cristiano.roberto.pfn@gmail.com)
 - Conecte-se comigo:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianoroberto/)
