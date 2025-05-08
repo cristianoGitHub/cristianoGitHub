@@ -39,6 +39,8 @@
 ![LGPD](https://img.shields.io/badge/LGPD-Brasil-009C3B?style=for-the-badge&logo=law&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Cristiano.Roberto.png" alt="Your Image Badge" />
+
 ## 🎓 Certificações
 
 - *__Certificado Profissional de Segurança Cibernética do Google__* *(Em andamento)*
